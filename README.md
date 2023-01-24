@@ -13,8 +13,11 @@ Please install node modules first:
 ## Calling endpoint via browser
 
 `http://localhost:5000/api/teams`
+#
 `http://localhost:5000/api/teamsdata`
+#
 `http://localhost:5000/api/teamsrepos`
+#
 `http://localhost:5000/api/teamsjson`
 
 ## Description
